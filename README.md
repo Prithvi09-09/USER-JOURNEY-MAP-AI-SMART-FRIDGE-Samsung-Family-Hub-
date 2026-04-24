@@ -1,6 +1,7 @@
 👤 User Persona:
 
-Name: Aman (Tech-savvy student / working professional)
+Name: Vansh(Tech-savvy student / working professional)
+Batch : 2K25CSUN06027
 Goal: Manage food easily, get recipe suggestions, and save time in kitchen
 
 
