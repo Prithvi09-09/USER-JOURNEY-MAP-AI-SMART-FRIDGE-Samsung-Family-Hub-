@@ -1,7 +1,7 @@
 👤 User Persona:
 
 Name: Vansh(Tech-savvy student / working professional)
-Batch : 2K25CSUN06027
+Batch : MRU-INEC-0825-CSE2029
 Goal: Manage food easily, get recipe suggestions, and save time in kitchen
 
 
